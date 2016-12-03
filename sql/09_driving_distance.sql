@@ -1,0 +1,10 @@
+insert into driving_distance values ('LHR', 'CDG', '406');
+insert into driving_distance values ('LHR', 'IST', '856');
+insert into driving_distance values ('LHR', 'FRA', '656');
+insert into driving_distance values ('LHR', 'MAD', '890');
+insert into driving_distance values ('LHR', 'MUC', '609');
+insert into driving_distance values ('LHR', 'BCN', '1120');
+insert into driving_distance values ('LHR', 'DME', '1582');
+insert into driving_distance values ('LGW', 'CDG', '416');
+insert into driving_distance values ('LGW', 'IST', '866');
+insert into driving_distance values ('LGW', 'FRA', '676');
