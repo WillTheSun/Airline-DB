@@ -1,11 +1,14 @@
 On Windows: Download PSQL and run 
 
-$ \i /yourdirectorypath.../install.sql
+```sh
+$ \i '/yourdirectorypath.../install.sql'
+```
 
 Mac/Linux: Install Postgresql and PSQL, then run
 
-psql -f /yourdirectorypath.../install.sql
-
+```sh
+$ psql -f /yourdirectorypath.../install.sql
+```
 # python-getting-started
 
 A barebones Python app, which can easily be deployed to Heroku.
